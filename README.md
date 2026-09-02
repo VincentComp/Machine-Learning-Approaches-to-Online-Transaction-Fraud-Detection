@@ -92,12 +92,12 @@ For this project, recall and AUPRC are treated as the most decision-relevant met
 
 ## Selected Visuals
 <p align="center">
-<img src="precision-recall-curve.png" alt="Precision-recall curves comparing the Decision Tree and Random Forest" width="720" />
+<img src="assests/precision-recall-curve.png" alt="Precision-recall curves comparing the Decision Tree and Random Forest" width="720" />
 </p>
 <p align="center"><em>Precision-recall curves on the held-out test set.</em></p>
 
 <p align="center">
-<img src="feature-importance.png" alt="Feature-importance comparison between the Decision Tree and Random Forest" width="720" />
+<img src="assests/feature-importance.png" alt="Feature-importance comparison between the Decision Tree and Random Forest" width="720" />
 </p>
 <p align="center"><em>Gini-based feature importance for both models.</em></p>
 
