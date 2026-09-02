@@ -15,7 +15,7 @@ Financial fraud detection is a highly imbalanced classification problem: fraudul
 
 The project places particular emphasis on **recall** and **area under the precision-recall curve (AUPRC)**. In fraud detection, identifying more true fraud cases is often more important than simply maximising accuracy, which can be misleading when non-fraud transactions dominate the dataset.
 
-📄 **Read the full report:** [Paper.pdf](./Paper.pdf)
+📄 **Read the full report:** [Machine Learning Approaches to Online Transaction Fraud Detection](./Paper.pdf)
 
 ## Objectives
 
