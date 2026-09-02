@@ -101,6 +101,17 @@ For this project, recall and AUPRC are treated as the most decision-relevant met
 </p>
 <p align="center"><em>Gini-based feature importance for both models.</em></p>
 
+## Repository Structure
+
+```text
+.
+├── README.md                      # Project documentation
+├── Paper.pdf                      # Full academic research report
+├── sample.R                       # R script for preprocessing, SMOTE, training, and evaluation
+└── assests/                       # Figures and visual assets
+    ├── feature-importance.png     # Feature importance plot comparing models
+    └── precision-recall-curve.png # Precision-recall evaluation curves
+```
 
 ## Limitations and Future Work
 
